@@ -100,3 +100,13 @@ fastlane/report.xml
 fastlane/Preview.html
 fastlane/screenshots
 fastlane/test_output
+
+.idea/AndroidProjectSystem.xml
+.idea/appInsightsSettings.xml
+.idea/copilot.data.migration.ask2agent.xml
+.idea/deviceManager.xml
+.idea/migrations.xml
+.idea/runConfigurations.xml
+
+
+.claude
