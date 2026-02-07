@@ -5,14 +5,12 @@ plugins {
 
 android {
     namespace = "com.dormiwww.echodo"
-    compileSdk {
-        version = release(36)
-    }
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.dormiwww.echodo"
         minSdk = 24
-        targetSdk = 36
+        targetSdk = 35
         versionCode = 1
         versionName = "1.0"
 
